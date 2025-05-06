@@ -1,0 +1,14 @@
+C:\Users\abhaq\GameCrashAnalyser\bin\Debug\net8.0\GameCrashAnalyser.exe
+C:\Users\abhaq\GameCrashAnalyser\bin\Debug\net8.0\GameCrashAnalyser.deps.json
+C:\Users\abhaq\GameCrashAnalyser\bin\Debug\net8.0\GameCrashAnalyser.runtimeconfig.json
+C:\Users\abhaq\GameCrashAnalyser\bin\Debug\net8.0\GameCrashAnalyser.dll
+C:\Users\abhaq\GameCrashAnalyser\bin\Debug\net8.0\GameCrashAnalyser.pdb
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\GameCrashAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\GameCrashAnalyser.AssemblyInfoInputs.cache
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\GameCrashAnalyser.AssemblyInfo.cs
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\GameCrashAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\GameCrashAnalyser.dll
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\refint\GameCrashAnalyser.dll
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\GameCrashAnalyser.pdb
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\GameCrashAnalyser.genruntimeconfig.cache
+C:\Users\abhaq\GameCrashAnalyser\obj\Debug\net8.0\ref\GameCrashAnalyser.dll
